@@ -1,0 +1,21 @@
+[submodule "_.admiralfeb.net"]
+	path = _.admiralfeb.net
+	url = ../_.admiralfeb.net.git
+[submodule "ng.admiralfeb.net"]
+	path = ng.admiralfeb.net
+	url = ../ng.admiralfeb.net.git
+[submodule "bwasm.admiralfeb.net"]
+	path = bwasm.admiralfeb.net
+	url = ../bwasm.admiralfeb.net.git
+[submodule "cra.admiralfeb.net"]
+	path = cra.admiralfeb.net
+	url = ../cra.admiralfeb.net.git
+[submodule "nextjs.admiralfeb.net"]
+	path = nextjs.admiralfeb.net
+	url = ../nextjs.admiralfeb.net.git
+[submodule "rust.admiralfeb.net"]
+	path = rust.admiralfeb.net
+	url = ../rust.admiralfeb.net.git
+[submodule "vue.admiralfeb.net"]
+	path = vue.admiralfeb.net
+	url = ../vue.admiralfeb.net.git
