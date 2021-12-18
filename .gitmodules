@@ -19,3 +19,6 @@
 [submodule "bwasm"]
 	path = bwasm
 	url = ../bwasm.admiralfeb.dev.git
+[submodule "usc"]
+	path = usc
+	url = ../usc-website.git
