@@ -4,9 +4,6 @@
 [submodule "ng"]
 	path = ng
 	url = ../ng.admiralfeb.dev.git
-[submodule "bwasm"]
-	path = bwasm
-	url = ../bwasm.admiralfeb.dev.git
 [submodule "cra"]
 	path = cra
 	url = ../cra.admiralfeb.dev.git
