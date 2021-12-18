@@ -16,3 +16,6 @@
 [submodule "vue"]
 	path = vue
 	url = ../vue.admiralfeb.dev.git
+[submodule "bwasm"]
+	path = bwasm
+	url = ../bwasm.admiralfeb.dev.git
