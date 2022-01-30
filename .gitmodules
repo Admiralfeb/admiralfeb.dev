@@ -22,3 +22,6 @@
 [submodule "usc"]
 	path = usc
 	url = ../usc-website.git
+[submodule "api"]
+	path = api
+	url = ../api.admiralfeb.dev.git
