@@ -6,19 +6,19 @@
 	url = ../api.admiralfeb.dev.git
 [submodule "bwasm"]
 	path = bwasm
-	url = ../bwasm.admiralfeb.dev.git
+	url = ../bwasm-admiralfeb-dev.git
 [submodule "cra"]
 	path = cra
-	url = ../cra.admiralfeb.dev.git
+	url = ../cra-admiralfeb-dev.git
 [submodule "nextjs"]
 	path = nextjs
-	url = ../nextjs.admiralfeb.dev.git
+	url = ../nextjs-admiralfeb-dev.git
 [submodule "ng"]
 	path = ng
-	url = ../ng.admiralfeb.dev.git
+	url = ../ng-admiralfeb-dev.git
 [submodule "rust"]
 	path = rust
-	url = ../rust.admiralfeb.dev.git
+	url = ../rust-admiralfeb-dev.git
 [submodule "vue"]
 	path = vue
-	url = ../vue.admiralfeb.dev.git
+	url = ../vue-admiralfeb-dev.git
