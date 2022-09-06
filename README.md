@@ -1,7 +1,7 @@
 # admiralfeb.dev
 Root repository for all admiralfeb.dev domain and subdomain repos. It has submodules for the other repositories.
 
-To retrieve all code, run `git clone --recurse-submodules https://github.com/admiralfeb/admiralfeb.dev`
+To retrieve all code, run `git clone --recurse-submodules https://gitlab.com/admiralfeb-websites/admiralfeb-web-dev/admiralfeb-dev.git`
 
 Requirements for most of the repositories is node.js 14 minimum.
 
@@ -29,10 +29,6 @@ not yet hosted
 
 Technology: React via Create React App
 
-## github
-
-Redirects to [Github - Admiralfeb](https://github.com/admiralfeb)
-
 ## nextjs
 
 not yet hosted
@@ -50,12 +46,6 @@ Techology: Angular
 not yet hosted
 
 Technology: Rust - Rocket
-
-## usc
-
-Redirects to [unitedsystems.org](https://unitedsystems.org)
-
-Technology: NextJS - React - MongoDb - TypeScript
 
 ## vue
 
