@@ -1,9 +1,9 @@
 [submodule "_root"]
 	path = _root
-	url = ../_.admiralfeb.dev.git
+	url = ../root-admiralfeb-dev.git
 [submodule "api"]
 	path = api
-	url = ../api.admiralfeb.dev.git
+	url = ../api-admiralfeb-dev.git
 [submodule "bwasm"]
 	path = bwasm
 	url = ../bwasm-admiralfeb-dev.git
