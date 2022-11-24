@@ -1,24 +1,24 @@
 [submodule "_root"]
 	path = _root
-	url = ../root-admiralfeb-dev.git
+	url = ../admiralfeb.dev-root.git
 [submodule "api"]
 	path = api
-	url = ../api-admiralfeb-dev.git
+	url = ../admiralfeb.dev-api.git
 [submodule "bwasm"]
 	path = bwasm
-	url = ../bwasm-admiralfeb-dev.git
+	url = ../admiralfeb.dev-bwasm.git
 [submodule "cra"]
 	path = cra
-	url = ../cra-admiralfeb-dev.git
+	url = ../admiralfeb.dev-cra.git
 [submodule "nextjs"]
 	path = nextjs
-	url = ../nextjs-admiralfeb-dev.git
+	url = ../admiralfeb.dev-nextjs.git
 [submodule "ng"]
 	path = ng
-	url = ../ng-admiralfeb-dev.git
+	url = ../admiralfeb.dev-ng.git
 [submodule "rust"]
 	path = rust
-	url = ../rust-admiralfeb-dev.git
+	url = ../admiralfeb.dev-rust.git
 [submodule "vue"]
 	path = vue
-	url = ../vue-admiralfeb-dev.git
+	url = ../admiralfeb.dev-vue.git
